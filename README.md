@@ -1,4 +1,4 @@
 # BRICS-economy
-Analysis of the economical data of emerging countries.
+Analysis of the military spending data of all countries, with a specific focus on Belgium.
 
-Dataset from Kaggle: https://www.kaggle.com/docstein/brics-world-bank-indicators
+Dataset from Kaggle: https://www.kaggle.com/nitinsss/military-expenditure-of-countries-19602019
